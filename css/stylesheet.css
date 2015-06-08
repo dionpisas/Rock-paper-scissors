@@ -1,0 +1,36 @@
+.img{
+    display: inline-block;
+}
+
+#rock {
+    border: none;
+    cursor: pointer;
+    text-indent: -3000px;
+    background: url(../pictures/rock.gif) no-repeat 0 0;
+    width: 400px;
+    height: 400px;
+}
+
+#paper{
+    border: none;
+    cursor: pointer;
+    text-indent: -3000px;
+    background: url(../pictures/papier.jpg) no-repeat 0 0;
+    width: 400px;
+    height: 400px;
+}
+
+#scissor{
+    border: none;
+    cursor: pointer;
+    text-indent: -3000px;
+    background: url(../pictures/scissor.jpg) no-repeat 0 0;
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+}
+
+
+p{
+    font-size: 40px;
+}
